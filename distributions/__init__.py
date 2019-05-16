@@ -1,1 +1,1 @@
-from .GaussianDistribution import Gaussian
+from .Gaussiandistribution import Gaussian
