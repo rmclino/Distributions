@@ -33,7 +33,7 @@ class Gaussian():
         """
         
         avg = sum(self.data) / len(self.data)
-        self.mean = avg *1.0
+        self.mean = avg *1.0c
         return avg  #np.mean(self.data)
                 
 

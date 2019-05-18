@@ -1,1 +1,4 @@
 /.vscode/__pycache__/GaussianDistribution.cpython-37.pyc
+.vscode/settings.json
+distributions/__pycache__/Generaldistribution.cpython-37.pyc
+distributions/__pycache__/GaussianDistribution.cpython-37.pyc
